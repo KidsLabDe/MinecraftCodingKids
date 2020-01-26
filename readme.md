@@ -11,8 +11,8 @@ https://media.ccc.de/v/36c3-104-programmieren-lernen-fr-kids-in-minecraft
 
 ## Labyrinth
 
-[Labyrinth](Stunde1 Labyrinth.md)
+[Labyrinth](Stunde1-Labyrinth.md)
 
 ## Hotelturm
 
-[Hotelturm](Stunde 2: Hotelturm.md)
+[Hotelturm](Stunde2-Hotelturm.md)
