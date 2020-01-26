@@ -11,7 +11,7 @@ Wir wollen jetzt die Schildkröte was größeres bauen lassen - den Augsburger H
 
 Das ist das Original, dass man auch vom Openlab aus gut sehen kann:
 
-![ ](https://de.wikipedia.org/wiki/Augsburger_Hotelturm#/media/Datei:Augsburg_Dorint-Novotel-Hotelturm_Maiskolben.jpg)
+![ ](https://upload.wikimedia.org/wikipedia/commons/6/6d/Augsburg_Dorint-Novotel-Hotelturm_Maiskolben.jpg)
 
 Wenn das ganze fertig ist, soll es so aussehen:
 
