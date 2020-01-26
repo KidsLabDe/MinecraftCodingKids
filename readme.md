@@ -7,3 +7,12 @@ Willkommen bei der Sammlung von Infos und Welten, um Kindern in Minecraft das Pr
 Auf dem Congress in Leizpig habe ich 2019 einen Vortrag zum Thema "Programmierenlernen in Minecraft" gehalten, die Aufzeichnung findet ihr hier:
 https://media.ccc.de/v/36c3-104-programmieren-lernen-fr-kids-in-minecraft
 
+# Die einzelnen Stunden
+
+## Labyrinth
+
+[Labyrinth](Stunde1 Labyrinth.md)
+
+## Hotelturm
+
+[Hotelturm](Stunde 2: Hotelturm.md)
