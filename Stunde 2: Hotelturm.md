@@ -15,7 +15,7 @@ Das ist das Original, dass man auch vom Openlab aus gut sehen kann:
 
 Wenn das ganze fertig ist, soll es so aussehen:
 
-![Hotelturm](/images/2020/01/Hotelturm2.png)
+![Hotelturm](Screenshots/Hotelturm2.png)
 
 In der Welt gibt es auch jeweils für die beiden Stockwerke ein Beispiel.
 Man kann sich natürlich auch eigene Sachen überlegen.
