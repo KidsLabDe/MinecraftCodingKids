@@ -1,0 +1,39 @@
+Untitled
+VISUAL
+ComputerCraftEdu:while
+ComputerCraftEdu:number 1
+ComputerCraftEdu:plus
+ComputerCraftEdu:number 1
+ComputerCraftEdu:equalTo
+ComputerCraftEdu:number 2
+ComputerCraftEdu:do
+
+
+
+
+
+
+ComputerCraftEdu:moveUp
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ComputerCraftEdu:end

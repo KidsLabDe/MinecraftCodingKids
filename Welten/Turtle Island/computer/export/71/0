@@ -1,0 +1,32 @@
+EatThis
+VISUAL
+ComputerCraftEdu:moveForward 4
+ComputerCraftEdu:moveUp 2
+ComputerCraftEdu:turnLeft 2
+ComputerCraftEdu:moveForward 2
+ComputerCraftEdu:turnLeft
+ComputerCraftEdu:moveForward 4
+ComputerCraftEdu:turnLeft
+ComputerCraftEdu:moveForward
+ComputerCraftEdu:moveDown
+ComputerCraftEdu:turnLeft
+ComputerCraftEdu:moveForward 2
+ComputerCraftEdu:turnRight
+ComputerCraftEdu:moveForward
+ComputerCraftEdu:moveDown
+ComputerCraftEdu:turnRight
+ComputerCraftEdu:moveForward
+ComputerCraftEdu:turnLeft
+ComputerCraftEdu:moveForward 2
+ComputerCraftEdu:moveUp 2
+ComputerCraftEdu:turnRight
+ComputerCraftEdu:moveForward
+ComputerCraftEdu:turnLeft
+ComputerCraftEdu:moveForward 2
+ComputerCraftEdu:turnLeft
+ComputerCraftEdu:moveForward
+ComputerCraftEdu:turnRight
+ComputerCraftEdu:moveForward 4
+ComputerCraftEdu:turnLeft
+ComputerCraftEdu:moveDown
+ComputerCraftEdu:moveForward 3

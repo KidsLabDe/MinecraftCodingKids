@@ -1,0 +1,27 @@
+RepeatTemplate
+VISUAL
+ComputerCraftEdu:repeat
+ComputerCraftEdu:number 6
+ComputerCraftEdu:do
+
+
+
+
+
+
+
+
+
+
+
+
+ComputerCraftEdu:comment "<- Add 2 commands to the left."
+
+
+
+
+
+
+
+
+ComputerCraftEdu:end
