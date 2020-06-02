@@ -1,0 +1,27 @@
+Untitled
+VISUAL
+ComputerCraftEdu:if
+ComputerCraftEdu:inspect
+ComputerCraftEdu:equalTo
+ComputerCraftEdu:block "ComputerCraftEdu:turtleBorder"
+ComputerCraftEdu:then
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ComputerCraftEdu:end

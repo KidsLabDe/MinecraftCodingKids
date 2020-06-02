@@ -1,0 +1,21 @@
+Untitled
+VISUAL
+ComputerCraftEdu:moveForward 2
+ComputerCraftEdu:turnLeft
+ComputerCraftEdu:moveForward 3
+ComputerCraftEdu:turnRight
+ComputerCraftEdu:moveForward 2
+ComputerCraftEdu:turnRight
+ComputerCraftEdu:moveForward 3
+ComputerCraftEdu:turnLeft
+ComputerCraftEdu:moveForward 9
+ComputerCraftEdu:turnLeft
+ComputerCraftEdu:moveForward 3
+ComputerCraftEdu:turnLeft
+ComputerCraftEdu:moveForward 2
+ComputerCraftEdu:turnRight
+ComputerCraftEdu:moveForward 2
+ComputerCraftEdu:turnRight
+ComputerCraftEdu:moveForward 3
+ComputerCraftEdu:turnLeft
+ComputerCraftEdu:moveForward 2
