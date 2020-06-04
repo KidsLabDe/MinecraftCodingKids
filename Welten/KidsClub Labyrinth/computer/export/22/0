@@ -41,7 +41,7 @@ ComputerCraftEdu:then
 ComputerCraftEdu:turnRight
 ComputerCraftEdu:moveForward
 ComputerCraftEdu:turnRight
-ComputerCraftEdu:digDown
+ComputerCraftEdu:dig
 
 
 
@@ -77,7 +77,7 @@ ComputerCraftEdu:then
 ComputerCraftEdu:turnLeft
 ComputerCraftEdu:moveForward
 ComputerCraftEdu:turnLeft
-ComputerCraftEdu:digDown
+ComputerCraftEdu:dig
 
 
 
