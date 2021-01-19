@@ -1,0 +1,76 @@
+Lockenwickler
+VISUAL
+ComputerCraftEdu:repeat
+ComputerCraftEdu:number 5
+ComputerCraftEdu:do
+
+
+
+
+
+
+
+
+
+
+ComputerCraftEdu:programDisk SteinStock
+ComputerCraftEdu:comment "Stein..."
+
+
+
+
+
+
+
+
+
+
+ComputerCraftEdu:programDisk GlasStock
+ComputerCraftEdu:comment "Glas"
+
+
+
+
+
+
+
+
+
+
+ComputerCraftEdu:programDisk SteinStock
+ComputerCraftEdu:comment "Stein..."
+
+
+
+
+
+
+
+
+
+ComputerCraftEdu:end
+
+
+
+
+
+
+
+
+
+
+
+ComputerCraftEdu:programDisk Antenne
+ComputerCraftEdu:comment "Und die Antenne"
+
+
+
+
+
+
+
+
+
+
+ComputerCraftEdu:say
+ComputerCraftEdu:string "Der Lockenwickler ist fertig!"
