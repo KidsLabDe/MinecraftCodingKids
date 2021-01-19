@@ -14,7 +14,7 @@ ComputerCraftEdu:do
 
 
 
-ComputerCraftEdu:programDisk BlockSetzenRunter
+
 ComputerCraftEdu:moveForward
 ComputerCraftEdu:programDisk BlockSetzenRunter
 ComputerCraftEdu:turnRight
@@ -25,10 +25,10 @@ ComputerCraftEdu:programDisk BlockSetzenRunter
 
 
 
+
 ComputerCraftEdu:repeat
 ComputerCraftEdu:number 5
 ComputerCraftEdu:do
-
 
 
 
@@ -50,7 +50,7 @@ ComputerCraftEdu:moveUp
 
 
 
-
+ComputerCraftEdu:end
 
 
 
@@ -84,4 +84,4 @@ ComputerCraftEdu:end
 
 
 
-ComputerCraftEdu:end
+
