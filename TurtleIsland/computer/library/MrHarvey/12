@@ -1,0 +1,8 @@
+Climber
+VISUAL
+ComputerCraftEdu:moveForward 2
+ComputerCraftEdu:turnLeft 2
+ComputerCraftEdu:moveUp 2
+ComputerCraftEdu:moveForward 2
+ComputerCraftEdu:moveDown 2
+ComputerCraftEdu:turnLeft 2

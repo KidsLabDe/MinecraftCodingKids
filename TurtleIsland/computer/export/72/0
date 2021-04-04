@@ -1,0 +1,11 @@
+FillInTheBlanks
+VISUAL
+ComputerCraftEdu:moveForward
+ComputerCraftEdu:placeDown
+ComputerCraftEdu:moveForward 2
+
+ComputerCraftEdu:moveForward 2
+
+ComputerCraftEdu:moveForward 3
+
+ComputerCraftEdu:moveForward 3

@@ -1,0 +1,43 @@
+CheckInv
+CODE
+while turtle.getItemCount() == 0 do
+  turtle.select( turtle.getSelectedSlot() + 1 )
+end
+VISUAL
+ComputerCraftEdu:if
+ComputerCraftEdu:getItemCount
+ComputerCraftEdu:equalTo
+ComputerCraftEdu:number 0
+ComputerCraftEdu:then
+
+
+
+
+
+
+
+
+ComputerCraftEdu:select
+ComputerCraftEdu:number 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ComputerCraftEdu:end
