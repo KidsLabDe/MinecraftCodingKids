@@ -1,0 +1,27 @@
+Looper
+VISUAL
+ComputerCraftEdu:repeat
+ComputerCraftEdu:number 4
+ComputerCraftEdu:do
+
+
+
+
+
+
+
+
+
+
+ComputerCraftEdu:moveForward
+ComputerCraftEdu:moveForward
+ComputerCraftEdu:turnRight
+
+
+
+
+
+
+
+
+ComputerCraftEdu:end

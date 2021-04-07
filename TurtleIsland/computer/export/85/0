@@ -1,0 +1,27 @@
+LoopTemplate
+VISUAL
+ComputerCraftEdu:repeat
+ComputerCraftEdu:number 6
+ComputerCraftEdu:do
+
+
+
+
+
+
+
+
+
+
+ComputerCraftEdu:moveForward
+
+ComputerCraftEdu:comment "<- Add 1 more command here."
+
+
+
+
+
+
+
+
+ComputerCraftEdu:end

@@ -1,0 +1,41 @@
+Puzzle4
+VISUAL
+ComputerCraftEdu:select
+ComputerCraftEdu:number 1
+ComputerCraftEdu:comment "Place shovel in turtle inventory"
+
+
+
+
+
+
+
+
+
+ComputerCraftEdu:equipLeft
+ComputerCraftEdu:comment "Equip tool."
+ComputerCraftEdu:comment "Must be diamond."
+ComputerCraftEdu:comment "Must be new."
+
+
+
+
+
+
+
+
+
+ComputerCraftEdu:comment "Add command to dig forward."
+
+
+
+
+
+
+
+
+
+
+
+
+

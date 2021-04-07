@@ -1,0 +1,39 @@
+Puzzle10
+VISUAL
+ComputerCraftEdu:while
+ComputerCraftEdu:detect
+ComputerCraftEdu:do
+ComputerCraftEdu:comment "Repeat until out"
+
+
+
+
+
+
+
+
+
+ComputerCraftEdu:comment "Dig"
+ComputerCraftEdu:comment "Move"
+ComputerCraftEdu:comment "Dig"
+ComputerCraftEdu:comment "Dig"
+ComputerCraftEdu:comment "Move"
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ComputerCraftEdu:end

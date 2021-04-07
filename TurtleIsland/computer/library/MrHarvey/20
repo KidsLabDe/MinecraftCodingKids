@@ -1,0 +1,39 @@
+Drop
+VISUAL
+ComputerCraftEdu:comment "Great job!"
+ComputerCraftEdu:comment "Place your turtle in front of me"
+ComputerCraftEdu:comment "I will put it in the chest."
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ComputerCraftEdu:dig
+ComputerCraftEdu:turnRight
+ComputerCraftEdu:drop
+ComputerCraftEdu:turnLeft
+
+
+
+
+
+
+
+
+
